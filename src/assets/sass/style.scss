@@ -1,0 +1,20 @@
+@import "./variables/_colors.scss";
+@import "./variables/_fonts.scss";
+@import "./variables/_breakpoints.scss";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+p {
+  font-family: $txt-font;
+  font-size: $p;
+  color: $text;
+}
+h1 {
+  color: $text;
+  font-family: $h-font;
+  font-size: $h1;
+}

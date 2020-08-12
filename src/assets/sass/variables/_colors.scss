@@ -1,0 +1,20 @@
+// Colors
+$primary: #EA5F17;
+$secondary: #8AB49D;
+$thirdary: #F2E1AC;
+
+// Header Text Colors
+$header: #515052;
+
+// Hover Colors
+$hover: #305A69;
+
+// Text Colors
+$text: #23241F;
+
+// Shadows
+$shadow: 3px 2px 4px $header;
+$shadow-hover: 3px 2px 10px $header;
+
+// Background
+$background: linear-gradient(to right, $secondary , $hover);;

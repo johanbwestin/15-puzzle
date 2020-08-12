@@ -1,0 +1,20 @@
+
+// @import '../../media/fonts/OpenSans-ExtraBold.ttf';
+@font-face {
+  font-family: "OpenSans-Bold-Italic";
+  src: 
+  url("~@/assets/media/fonts/OpenSans-ExtraBoldItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "OpenSans";
+  src: 
+  url("~@/assets/media/fonts/OpenSans-Bold.ttf") format("truetype");
+}
+
+// Font Family
+$txt-font: "OpenSans", sans-serif;
+$h-font: "OpenSans-Bold-Italic", sans-serif;
+
+// Font Sizes 
+$h1: 2.5rem;
+$p: 1rem;
